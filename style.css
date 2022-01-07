@@ -59,7 +59,7 @@ h2{
 }
 #full-stack-experience{
     border-left: 10px solid;
-    border-image: linear-gradien(salmon, tomato);
+    border-image: linear-gradient(purple, tomato);
     border-image-slice: 1;
 }
 footer p{
